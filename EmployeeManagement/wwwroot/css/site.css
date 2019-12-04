@@ -1,0 +1,10 @@
+﻿/**Override the width of bootstrap "btn" class*/
+.btn {
+    width:75px;
+}
+
+/**Set a standard size for employee images*/
+.imageThumbNail {
+    height:200px;
+    width:auto;
+}
